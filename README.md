@@ -1,7 +1,7 @@
 # OmniCheck PC — Motor de Diagnóstico Técnico de Hardware y Auditoría de Sistemas
 
 [![CI Validation](https://github.com/XChris-Z/PCDiagnostic/actions/workflows/ci.yml/badge.svg)](https://github.com/XChris-Z/PCDiagnostic/actions)
-[![License: Non-Commercial & Royalties](https://img.shields.io/badge/License-Non--Commercial%20%7C%20Royalties-9333ea.svg)](LICENSE)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Platform: Windows](https://img.shields.io/badge/Platform-Windows_10_%2F_11_(x86__64)-0078D6.svg?logo=windows)](https://microsoft.com)
 [![Rust: 1.78+](https://img.shields.io/badge/Rust-1.78%2B-orange.svg?logo=rust)](https://www.rust-lang.org/)
 [![Tauri: v2](https://img.shields.io/badge/Tauri-v2-24C8DB.svg?logo=tauri)](https://tauri.app/)
@@ -298,7 +298,7 @@ PCDiagnostic/
 ├── vite.config.ts               # Configuración del bundler Vite con React y Tailwind
 ├── CONTRIBUTING.md              # Estándares de desarrollo y directrices para PRs
 ├── SECURITY.md                  # Modelo de permisos y política de divulgación
-└── LICENSE                      # Licencia no comercial con regalías comerciales
+└── LICENSE                      # Licencia MIT de código abierto
 ```
 
 ---
@@ -311,14 +311,7 @@ PCDiagnostic/
 
 ---
 
-## 11. Licencia y Términos Comerciales
+## 11. Licencia
 
-Este proyecto se distribuye bajo una **Licencia de Código Disponible No Comercial y Regalías Comerciales (*Source-Available Non-Commercial & Commercial Royalty License*)**:
+Este proyecto está distribuido bajo la licencia de código abierto **MIT**. Consulte el archivo [LICENSE](LICENSE) para obtener más información.
 
-1. **Uso No Comercial (Gratuito):** Se autoriza el uso libre para fines personales, domésticos, educativos, de investigación y auditoría técnica individual sin cobro por el software.
-2. **Uso Comercial y Reparto de Ganancias (*Revenue Share*):** Queda estrictamente prohibida la venta, distribución con fines de lucro, cobro por licenciamiento o empaquetado en soluciones comerciales sin un acuerdo previo por escrito con el autor.
-3. **Licenciamiento Comercial:** Para solicitar una licencia comercial o acordar un esquema de regalías / *revenue share*, contactar a:
-   - **Autor:** Christian Lemus (XChris-Z)
-   - **Correo electrónico:** [christ.lemus2001@gmail.com](mailto:christ.lemus2001@gmail.com)
-
-Consulte el archivo [LICENSE](LICENSE) para conocer el texto legal completo.

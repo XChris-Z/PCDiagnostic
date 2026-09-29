@@ -135,7 +135,7 @@ export const ReportPreviewModal: React.FC<ReportPreviewModalProps> = ({
                   type="text"
                   value={pcName}
                   onChange={(e) => setPcName(e.target.value)}
-                  placeholder="Ej: Laptop ASUS Christian"
+                  placeholder="Ej: Laptop ASUS ZenBook / Workstation-01"
                   className="w-full bg-slate-950 border border-slate-700 rounded px-2.5 py-1.5 text-slate-100 focus:border-cyan-400 focus:outline-none"
                 />
               </div>
@@ -149,7 +149,7 @@ export const ReportPreviewModal: React.FC<ReportPreviewModalProps> = ({
                   type="text"
                   value={clientName}
                   onChange={(e) => setClientName(e.target.value)}
-                  placeholder="Ej: Christian Lemus / Empresa ABC"
+                  placeholder="Ej: Cliente / Empresa ABC"
                   className="w-full bg-slate-950 border border-slate-700 rounded px-2.5 py-1.5 text-slate-100 focus:border-cyan-400 focus:outline-none"
                 />
               </div>
