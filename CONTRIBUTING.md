@@ -34,8 +34,8 @@ El sistema está desacoplado en dos capas principales comunicadas mediante IPC b
 
 ```bash
 # 1. Clonar el repositorio
-git clone https://github.com/XChris-Z/omnicheck-pc.git
-cd omnicheck-pc
+git clone https://github.com/XChris-Z/PCDiagnostic.git
+cd PCDiagnostic
 
 # 2. Instalar dependencias del frontend
 npm install

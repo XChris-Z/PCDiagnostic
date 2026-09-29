@@ -1,6 +1,6 @@
 # OmniCheck PC — Motor de Diagnóstico Técnico de Hardware y Auditoría de Sistemas
 
-[![CI Validation](https://github.com/XChris-Z/omnicheck-pc/actions/workflows/ci.yml/badge.svg)](https://github.com/XChris-Z/omnicheck-pc/actions)
+[![CI Validation](https://github.com/XChris-Z/PCDiagnostic/actions/workflows/ci.yml/badge.svg)](https://github.com/XChris-Z/PCDiagnostic/actions)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Platform: Windows](https://img.shields.io/badge/Platform-Windows_10_%2F_11_(x86__64)-0078D6.svg?logo=windows)](https://microsoft.com)
 [![Rust: 1.78+](https://img.shields.io/badge/Rust-1.78%2B-orange.svg?logo=rust)](https://www.rust-lang.org/)
@@ -209,8 +209,8 @@ Adicionalmente, el ejecutable final contiene el atributo `#![cfg_attr(not(debug_
 
 ### 8.1 Clonación e Instalación de Dependencias
 ```bash
-git clone https://github.com/XChris-Z/omnicheck-pc.git
-cd omnicheck-pc
+git clone https://github.com/XChris-Z/PCDiagnostic.git
+cd PCDiagnostic
 npm install
 ```
 
