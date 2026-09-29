@@ -1,21 +1,92 @@
-MIT License
+LICENCIA DE CÓDIGO DISPONIBLE NO COMERCIAL Y REGALÍAS COMERCIALES
+(SOURCE-AVAILABLE NON-COMMERCIAL & COMMERCIAL ROYALTY LICENSE)
 
-Copyright (c) 2026 OmniCheck PC Contributors
+Copyright (c) 2026 Christian Lemus (XChris-Z)
+Contacto / Commercial Contact: christ.lemus2001@gmail.com
+Repositorio Oficial: https://github.com/XChris-Z/PCDiagnostic
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+================================================================================
+TÉRMINOS Y CONDICIONES EN ESPAÑOL
+================================================================================
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+Por la presente se concede permiso a cualquier persona que obtenga una copia de
+este software y los archivos de documentación asociados (el "Software"), para
+utilizar, ver, inspeccionar, compilar y modificar el Software sujeto a las
+siguientes condiciones y restricciones:
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+1. USO NO COMERCIAL PERMITIDO (GRATUITO):
+   Se autoriza el uso libre y gratuito del Software exclusivamente para:
+   a) Fines personales, domésticos, educativos y de investigación académica.
+   b) Auditorías técnicas de hardware independientes, pruebas internas y soporte
+      individual no comercial.
+   c) Creación de modificaciones o bifurcaciones (forks) que permanezcan
+      exclusivamente bajo estos mismos términos no comerciales.
+
+2. RESTRICCIÓN COMERCIAL Y OBLIGACIÓN DE REGALÍAS (REVENUE SHARE):
+   Queda ESTRICTAMENTE PROHIBIDO, sin la autorización previa, expresa y por
+   escrito del Titular de los Derechos de Autor:
+   a) Vender, revender, sublicenciar, arrendar o comercializar el Software o sus
+      binarios compilados (incluyendo instaladores y versiones portables).
+   b) Integrar, incrustar o empaquetar total o parcialmente el Software en
+      productos, suites de pago, plataformas SaaS o soluciones comerciales cerradas.
+   c) Cobrar tarifas directas por el uso, distribución o suministro de copias
+      del Software.
+
+   Cualquier uso comercial, redistribución de pago o explotación lucrativa del
+   Software requerirá la suscripción de un ACUERDO DE LICENCIA COMERCIAL formal
+   con el Titular de los Derechos de Autor, el cual incluirá el esquema de
+   reparto de ganancias o porcentaje de regalías (Royalties / Revenue Share)
+   acordado entre las partes.
+
+3. ATRIBUCIÓN Y DERECHOS DE AUTOR:
+   Todas las copias, reproducciones o porciones sustanciales del Software deben
+   mantener intacto este aviso de derechos de autor y la presente licencia.
+
+4. EXENCIÓN DE RESPONSABILIDAD:
+   EL SOFTWARE SE PROPORCIONA "TAL CUAL", SIN GARANTÍA DE NINGÚN TIPO, EXPRESA O
+   IMPLÍCITA, INCLUYENDO PERO SIN LIMITARSE A GARANTÍAS DE COMERCIABILIDAD O
+   IDONEIDAD PARA UN PROPÓSITO PARTICULAR. EN NINGÚN CASO EL TITULAR DE LOS
+   DERECHOS DE AUTOR SERÁ RESPONSABLE POR DAÑOS O RECLAMACIONES DERIVADAS DEL
+   USO DEL SOFTWARE.
+
+================================================================================
+ENGLISH TERMS & CONDITIONS
+================================================================================
+
+Permission is hereby granted to any person obtaining a copy of this software and
+associated documentation files (the "Software"), to view, compile, inspect, and
+modify the Software subject to the following terms and restrictions:
+
+1. PERMITTED NON-COMMERCIAL USE (FREE):
+   Free and non-commercial use of the Software is granted exclusively for:
+   a) Personal, home, educational, and academic research purposes.
+   b) Independent technical hardware diagnostics, internal testing, and individual
+      non-commercial support.
+   c) Creating modifications or forks that remain exclusively under these exact
+      same non-commercial terms.
+
+2. COMMERCIAL RESTRICTION & ROYALTY REQUIREMENT (REVENUE SHARE):
+   It is STRICTLY PROHIBITED, without the prior express written consent of the
+   Copyright Holder, to:
+   a) Sell, resell, sublicense, rent, or commercially distribute the Software or
+      its compiled binaries (including portable executables and installers).
+   b) Integrate, bundle, or embed the Software in whole or in part into commercial
+      products, paid software suites, SaaS platforms, or proprietary closed solutions.
+   c) Charge fees directly for the use, distribution, or provisioning of copies
+      of the Software.
+
+   Any commercial use, paid distribution, or monetization derived from the
+   Software requires a formal COMMERCIAL LICENSE AGREEMENT executed with the
+   Copyright Holder, which shall establish the agreed-upon royalty rate or
+   revenue sharing percentage between the parties.
+
+3. ATTRIBUTION:
+   All copies or substantial portions of the Software must retain this copyright
+   notice and these license terms.
+
+4. DISCLAIMER OF WARRANTY:
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY OR
+   FITNESS FOR A PARTICULAR PURPOSE. IN NO EVENT SHALL THE COPYRIGHT HOLDER BE
+   LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM THE USE OF
+   THE SOFTWARE.

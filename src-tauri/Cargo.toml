@@ -4,7 +4,7 @@ version = "1.0.0"
 description = "Motor de diagnóstico técnico de hardware de bajo nivel para Windows"
 authors = ["OmniCheck Contributors"]
 edition = "2021"
-license = "MIT"
+license-file = "../LICENSE"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 

@@ -3,6 +3,7 @@
   "private": true,
   "version": "1.0.0",
   "description": "Suite técnica de diagnóstico de hardware, telemetría SMART y auditoría de integridad para Windows",
+  "license": "SEE LICENSE IN LICENSE",
   "type": "module",
   "scripts": {
     "dev": "vite",
